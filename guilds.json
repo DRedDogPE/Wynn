@@ -7,9 +7,17 @@
             "Kingdom Foxes",
             "The Hive"
         ]
+        "aesir": [
+            "Sins of Seedia",
+            "Fantasy",
+            "IceBlue Team",
+            "DiamondDeities",
+            "TheNoLifes"
+        ]
     },
     "prefix": {
-        "valkyrie": "VA"
+        "valkyrie": "VA |"
+        "aesir": "AE |"
     },
     "colors": {
         "BuildCraftia": "1CE00B",
