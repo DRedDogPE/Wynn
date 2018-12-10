@@ -6,7 +6,7 @@
             "Imperial",
             "Kingdom Foxes",
             "The Hive"
-        ]
+        ],
         "aesir": [
             "Sins of Seedia",
             "Fantasy",
@@ -16,7 +16,7 @@
         ]
     },
     "prefix": {
-        "valkyrie": "VA |"
+        "valkyrie": "VA |",
         "aesir": "AE |"
     },
     "colors": {
