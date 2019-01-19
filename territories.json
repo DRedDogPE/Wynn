@@ -705,15 +705,15 @@
     },
     {
       "name": "Rooster Island",
-      "start": "-128,-2448",
+      "start": "-704,-2863",
       "end": "-30,-2538",
       "level": 15,
       "spawnLocation": "-80,46,-2501"
     },
     {
       "name": "Zhight Island",
-      "start": "-520,-2870",
-      "end": "-440,-2795",
+      "start": "-472,-2651",
+      "end": "--704,-2863",
       "level": 45,
       "spawnLocation": "-441,41,-2870"
     },
