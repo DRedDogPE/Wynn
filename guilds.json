@@ -1,23 +1,19 @@
 {
     "groups": {
-        "valkyrie": [
+        "luna": [
             "Emorians",
             "Imperial",
             "Kingdom Foxes",
-            "The Hive",
-            "Paladins United"
-        ],
-        "aesir": [
-            "Sins of Seedia",
-            "Fantasy",
-            "IceBlue Team",
-            "DiamondDeities",
-            "TheNoLifes"
+            "Paladins United",
+            "Blacklisted",
+            "BuildCraftia",
+            "Exorcism",
+            "The Divine Swords",
+            "Artemis League"
         ]
     },
     "prefix": {
-        "valkyrie": "VA |",
-        "aesir": "AE |"
+        "luna": "☾"
     },
     "colors": {
         "BuildCraftia": "1CE00B",
